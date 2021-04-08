@@ -153,7 +153,7 @@ def main():
                         paused_image = resume_nor_image
                     else:
                         paused_image = pause_nor_image
-                        
+
         # 绘制背景图片
         screen.blit(background, (0, 0))
 
